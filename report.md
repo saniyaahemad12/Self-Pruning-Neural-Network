@@ -59,6 +59,4 @@ The results clearly demonstrate a trade-off: increasing λ improves sparsity but
 
 Below is the distribution of gate values for the best-performing model:
 
-```python
-
 ![Gate Distribution](images/gate_distribution.png)
