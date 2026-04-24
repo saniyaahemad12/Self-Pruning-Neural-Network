@@ -61,4 +61,4 @@ Below is the distribution of gate values for the best-performing model:
 
 ```python
 
-![images](Gate Distribution.png)
+![Gate Distribution](images/Gate Distribution.png)
